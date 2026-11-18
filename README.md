@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Chinh
+# Hi, I'm Chính
 
 Second-year Computer Science student at Dublin City University and lab tutor for about 200 first-year students. I like building things that run locally, measuring them, and explaining how they work.
 
